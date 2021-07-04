@@ -1,4 +1,4 @@
-mysql:  
+mysql: 
   url: jdbc:mysql://localhost:9998/lagou?characterEncoding=UTF-8
 lagou: 
   message: hello lagou,100
